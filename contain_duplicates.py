@@ -1,4 +1,4 @@
-Class solution():
+class solution():
     def contain_duplicate(self,nums:List[int]) -> bool:
         n-len(nums)
         for i in range (n-1):
